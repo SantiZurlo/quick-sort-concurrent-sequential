@@ -9,6 +9,9 @@ El objetivo es comparar el rendimiento de ambas implementaciones con diferentes 
 - `QuickSortConcurrente.java`: Versión paralela basada en `RecursiveTask`.
 - `MainTestQuicksort.java`: Se realizan las pruebas con los diferentes arreglos y tamaños.
 
+## Link de video explicativo
+https://www.youtube.com/watch?v=pWdlWRQbifw
+
 ## Autor
 
 **Santiago Zurlo** 
